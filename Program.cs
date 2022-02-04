@@ -8,7 +8,7 @@ namespace StackExample
         public static void Main(string[] args)
         {
             Stack my_stack=new Stack();
-            my_stack.Push("sita");
+            my_stack.Push("sarita");
             my_stack.Push("Rita");
             my_stack.Push("Ram");
             my_stack.Push("Shayam");
