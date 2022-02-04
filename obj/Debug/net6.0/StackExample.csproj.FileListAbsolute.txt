@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\StackExample.exe
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\StackExample.deps.json
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\StackExample.runtimeconfig.json
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\StackExample.dll
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\ref\StackExample.dll
+C:\Users\lenovo\Desktop\New folder\StackExample\bin\Debug\net6.0\StackExample.pdb
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.dll
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\ref\StackExample.dll
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.pdb
+C:\Users\lenovo\Desktop\New folder\StackExample\obj\Debug\net6.0\StackExample.genruntimeconfig.cache
